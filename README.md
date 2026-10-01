@@ -137,8 +137,8 @@ This project demonstrates practical experience with:
 
 ## 📌 Project Context
 
-**Project:** 2D Platform Collector Game
-**Reinforcement Learning Technique:** SARSA
-**Environment:** Godot 4
-**Agent:** Python 3
+**Project:** 2D Platform Collector Game\
+**Reinforcement Learning Technique:** SARSA\
+**Environment:** Godot 4\
+**Agent:** Python 3\
 **Development Environment:** PyCharm + Godot
