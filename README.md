@@ -137,7 +137,6 @@ This project demonstrates practical experience with:
 
 ## 📌 Project Context
 
-**Course:** UCCD2063 Artificial Intelligence Techniques
 **Project:** 2D Platform Collector Game
 **Reinforcement Learning Technique:** SARSA
 **Environment:** Godot 4
